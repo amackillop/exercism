@@ -1,0 +1,9 @@
+# Ignore everythin
+*
+# Except
+!.gitignore
+!*.hs
+# Inluding those in subdirectories
+!*/
+# But not tests
+Tests.hs
